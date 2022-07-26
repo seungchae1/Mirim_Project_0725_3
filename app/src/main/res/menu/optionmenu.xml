@@ -11,7 +11,7 @@
         android:title="배경색(GREEN)"/>
     <item
         android:id="@+id/btn_change"
-        android:title="버튼변경 ≫">
+        android:title="버튼변경">
         <menu>
             <item
                 android:id="@+id/btn_rotate"
